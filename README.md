@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm razlevio</h1>
 A full stack software engineer who turns challenges into elegant solutions, I combine technical expertise with creative problem-solving to build impactful software across various domains.
 
 ##
