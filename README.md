@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafarossi97" alt="rafarossi97" /></a> </p>
 
-- 🌱 I’m currently learning **python and reactjs**
+- 🌱 I’m currently working with **Nexon Labs**
 
-- ⚡ Fun fact **haxor haha**
+- ⚡ Fun fact **I've been developing blockchain technology for over 4 years.**
 
 <p align="left">
 </p>
